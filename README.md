@@ -1,0 +1,2 @@
+# gold-journal
+all ok 
